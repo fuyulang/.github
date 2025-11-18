@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Fuyu Discussions
+    url: https://github.com/orgs/fuyulang/discussions
+    about: Q&A, discussions, and support
+  - name: Contributing Guidelines
+    url: https://github.com/fuyulang/.github/blob/main/CONTRIBUTING.md
+    about: Familiarize yourself with the contributing procedures
+  - name: Code of Conduct
+    url: https://github.com/fuyulang/.github/blob/main/CODE_OF_CONDUCT.md
+    about: We follow the Contributor Covenant Code of Conduct
